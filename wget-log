@@ -1,0 +1,11 @@
+--2024-05-15 08:50:51--  https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh
+Resolving repo.anaconda.com (repo.anaconda.com)... 104.16.32.241, 104.16.191.158, 2606:4700::6810:20f1, ...
+Connecting to repo.anaconda.com (repo.anaconda.com)|104.16.32.241|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 143351488 (137M) [application/octet-stream]
+Saving to: ‘Miniconda3-latest-Linux-x86_64.sh’
+
+Miniconda3-latest-Linux-x86_   0%[                                               ]       0  --.-KB/s               Miniconda3-latest-Linux-x86_  10%[===>                                           ]  14.41M  72.0MB/s               Miniconda3-latest-Linux-x86_  19%[========>                                      ]  27.04M  67.6MB/s               Miniconda3-latest-Linux-x86_  27%[===========>                                   ]  37.20M  62.0MB/s               Miniconda3-latest-Linux-x86_  38%[=================>                             ]  52.50M  65.6MB/s               Miniconda3-latest-Linux-x86_  49%[======================>                        ]  67.09M  67.1MB/s               Miniconda3-latest-Linux-x86_  60%[===========================>                   ]  83.15M  69.3MB/s               Miniconda3-latest-Linux-x86_  71%[================================>              ]  97.85M  69.9MB/s               Miniconda3-latest-Linux-x86_  83%[======================================>        ] 114.05M  71.3MB/s               Miniconda3-latest-Linux-x86_  95%[===========================================>   ] 130.10M  72.3MB/s               Miniconda3-latest-Linux-x86_ 100%[==============================================>] 136.71M  72.7MB/s    in 1.9s    
+
+2024-05-15 08:50:53 (72.7 MB/s) - ‘Miniconda3-latest-Linux-x86_64.sh’ saved [143351488/143351488]
+
